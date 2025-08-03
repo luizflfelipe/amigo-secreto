@@ -65,3 +65,6 @@ function reiniciar(){
     document.getElementById('lista-amigos').innerHTML = '';;      //Pegamos a lista de amigos;
     document.getElementById('lista-sorteio').innerHTML = '';;
 }
+
+
+//Vamos aprender POO agora!!
